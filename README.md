@@ -2,7 +2,7 @@
 **Full Stack Developer | PHP & CodeIgniter Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milan-kundu/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat)](https://your-portfolio-site.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat)](https://milankundu-portfolio.netlify.app/)
 
 ## 🔧 Core Competencies  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
