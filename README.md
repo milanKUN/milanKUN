@@ -37,6 +37,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milanKUN&layout=compact&theme=vision-friendly-dark)](https://github.com/milanKUN)
 
 ## 📫 Let's Collaborate!  
-- 💼 **Hire Me:** [Portfolio](https://your-portfolio.com)  
+- 💼 **Hire Me:** [Portfolio](https://milankundu-portfolio.netlify.app/)  
 - 📧 **Email:** milankundu2003@gmail.com  
 - 🐦 **Twitter:** [@kundumilan2003](https://twitter.com/kundumilan2003)
